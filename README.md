@@ -2,7 +2,6 @@
 
 A CLI powered by Python to simplify renaming files.
 
-----------
 # Usage
 
 Install:
